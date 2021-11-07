@@ -147,6 +147,7 @@ header{
     width: 106px;
     background-color: $darkGray;
     opacity: 0.8;
+    border-right: 1px solid rgb(26, 26, 26);
 
     &__bouton-menu{
         display: flex;

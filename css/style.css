@@ -143,6 +143,7 @@ header {
   width: 106px;
   background-color: #202124;
   opacity: 0.8;
+  border-right: 1px solid #1a1a1a;
 }
 .menu-vertical__bouton-menu {
   display: flex;
